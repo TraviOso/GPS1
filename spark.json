@@ -1,0 +1,7 @@
+{
+  "name": "Bridge",
+  "author": "travissanabria <travissanabria@yahoo.com>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A simple library that illustrates coding conventions of a Spark Library"
+}
